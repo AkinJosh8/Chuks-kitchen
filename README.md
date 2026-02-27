@@ -3,7 +3,7 @@
 Chuks Kitchen is a food ordering web application that allows users to browse meals, add items to cart, and place orders seamlessly.
 
 **Live Demo:**  
-https://chukks-kitchen.netlify.app/home
+https://chukks-kitchen.netlify.app/
 
 ---
 
